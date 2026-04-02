@@ -1,6 +1,6 @@
 body {
     
-    font-family: 'Inconsolata', sans-serif;
+    font-family: 'Merriweather', serif;
     line-height: 1.6;
     background: linear-gradient(135deg, #f0fff4, #fff0f6, #f0fff4);
     background-attachment: fixed;
@@ -9,7 +9,7 @@ body {
 }
 
 h2 {
-    color: #9d4edd;
+    color: #142b80;
     text-align: center;
 }
 
@@ -211,4 +211,3 @@ a {
         grid-template-columns: 1fr;
     }
 }
-
